@@ -1,11 +1,14 @@
 # Enterprise-Resource-Planning-System
 ## Project - 3<sup>rd</sup> Year industry placement project (UOR)
 ### Overview :
-<p>This system serves as a comprehensive management tool tailored for small shops and supermarkets, encompassing several key modules, namely Sales Processing, Inventory Management, Customer Management, Report and analytics, Supplier Management, and Purchases Module. It effectively maintains an inventory system, meticulously tracking both purchased and sold goods. Sales Processing and the Purchases Module take charge of managing the sales and purchases of goods, respectively.</p>
+Welcome to our Enterprise Resource Planning (ERP) System, a collaborative effort with the leading IT company in the industry, 99x. This robust management tool is meticulously crafted for small shops and supermarkets, offering an array of modules:
 
-<p>Each procurement is intricately recorded and linked to registered suppliers, whose details are meticulously stored and managed within the Supplier Module. The Customer Management module plays a pivotal role in maintaining transaction records while providing the shop management staff with the ability to view and customize various privileges based on their individual records.</p>
-
-<p>The Report & Analytics module acts as the financial nerve center of the system, meticulously tracking financial records and generating comprehensive reports for in-depth analysis of the business's current status and performance.</p>
+    Sales Processing: Efficiently manage sales transactions.
+    Inventory Management: Keep a detailed track of purchased and sold goods.
+    Customer Management: Maintain transaction records and empower staff with customizable privileges.
+    Report and Analytics: The financial nerve center, generating comprehensive reports for in-depth business analysis.
+    Supplier Management: Record and link procurements to registered suppliers.
+    Purchases Module: Seamlessly manage the purchases of goods.
 
 ### Team Members :
 
